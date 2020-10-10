@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myReportMouse" value="false" />
+    <option name="mySoundBell" value="false" />
+  </component>
+</application>
