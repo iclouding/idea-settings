@@ -20,8 +20,8 @@
       <mapping ext="input" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="2020-03-20-16-48" type="PLAIN_TEXT" />
-      <mapping ext="ivec" type="PLAIN_TEXT" />
       <mapping ext="cfu" type="PLAIN_TEXT" />
+      <mapping ext="ivec" type="PLAIN_TEXT" />
       <mapping ext="propertites" type="PLAIN_TEXT" />
       <mapping ext="2020-03-20-11-09" type="PLAIN_TEXT" />
       <mapping ext="2020-03-20-15-01" type="PLAIN_TEXT" />
