@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="*" value=" /**&#10; * @author gtding&#10; * @description //TODO $end$&#10; * @date  $date$ $time$&#10; * @version v2.0&#10; * @param $param$&#10; * @return $return$&#10; **/&#10;" description="Java方法的注释" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

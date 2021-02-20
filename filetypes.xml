@@ -1,0 +1,40 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.*.iml;*.classpath;*.hprof;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.settings;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping ext="gradle" type="Groovy" />
+      <mapping ext="streamdemo" type="JAVA" />
+      <mapping pattern="flume_avro" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="part-00000" type="PLAIN_TEXT" />
+      <mapping pattern="ssoconfig" type="PLAIN_TEXT" />
+      <mapping pattern="test.html" type="PLAIN_TEXT" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern="part-00001" type="PLAIN_TEXT" />
+      <mapping pattern="wef" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="fb48" type="PLAIN_TEXT" />
+      <mapping ext="demo" type="PLAIN_TEXT" />
+      <mapping ext="perporties" type="PLAIN_TEXT" />
+      <mapping ext="input" type="PLAIN_TEXT" />
+      <mapping ext="avro" type="PLAIN_TEXT" />
+      <mapping ext="2020-03-20-16-48" type="PLAIN_TEXT" />
+      <mapping ext="ivec" type="PLAIN_TEXT" />
+      <mapping ext="cfu" type="PLAIN_TEXT" />
+      <mapping ext="propertites" type="PLAIN_TEXT" />
+      <mapping ext="2020-03-20-11-09" type="PLAIN_TEXT" />
+      <mapping ext="2020-03-20-15-01" type="PLAIN_TEXT" />
+      <mapping ext="properties2" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+    </extensionMap>
+  </component>
+</application>
